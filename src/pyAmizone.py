@@ -208,9 +208,3 @@ class pyAmizone:
             attendance.append(att)
         
         return attendance
-
-
-if __name__ == "__main__":
-    obj = pyAmizone('7038574', 'd345af')
-    res = obj.get_schedule_today()
-    print(res)
