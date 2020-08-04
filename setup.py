@@ -8,7 +8,7 @@ setup(
 	version='0.0.1',
 	url='https://github.com/siddharthapdutta/pyAmizone',
 	author='Siddhartha Dutta',
-	author_email='siddhartha.dutta1@student.amity.edu'
+	author_email='siddhartha.dutta1@student.amity.edu',
 	description='Python Package for Amizone',
 	long_description=long_description,
 	long_description_content_type="text/markdown",
